@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FbChat</string>
+    <string name="google_sign_in">Google SignIn</string>
+</resources>
